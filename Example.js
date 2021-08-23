@@ -7,13 +7,12 @@ var commandInfo = {
 };
 
 function execute(chatmsg, args, Minecraft) {
-	const execute = Minecraft.Commands.run
 	const sender = chatmsg.sender.name;
 
     let O = ['yyds'];//偵測: -example yyds
 	
 	if(!args.length || O.includes(args[0])) {
-    execute(`say hi`)
+    Minecraft.Commands.run(`say hi`)
 	}
 };
 
