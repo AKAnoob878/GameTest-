@@ -3,7 +3,7 @@
 # 此Addon支援Win10和手機  <br />
 ***
 Discord: **Patreon#4956** <br />
-Discord群組: https://discord.gg/bkn293X <br />
+Discord群組: https://discord.gg/sAr8vpUyru <br />
 Youtube: https://youtube.com/channel/UCzDOCivc0CXYF4CY9Eg4CxA <br />
 
 # 所有GameTest影片
