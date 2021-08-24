@@ -9,7 +9,8 @@ Youtube: https://youtubeㄔ.com/channel/UCzDOCivc0CXYF4CY9Eg4CxA <br />
 # 所有GameTest影片
 ***
 * [Home](https://youtu.be/_DP5KmwGCMc)
+* [dm系統](https://youtu.be/ML_gFV9oj10)
 
-# 所有載點
+# 最新載點
 ***
-* [Home](https://www.mediafire.com/file/xw0f4gleusay4sh/api.mcpack/file)
+* [MediaFire](https://www.mediafire.com/file/q59fkhbccf9vww9/api%25282%2529.mcpack/file)
